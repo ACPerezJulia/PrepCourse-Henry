@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del M2 del PrepCourse de Henry
+Este es un proyecto de prueba de como crear un repositorio y como clonarlo desde github a mi computadora.
+ACPJ
